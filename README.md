@@ -1,5 +1,7 @@
 # Google Drive RAG/MCP System
 
+### NOTE: I've pushed the .env in the repository for easy access. This is not representative of what I'd do in a real-world setting.
+
 This project is a Retrieval-Augmented Generation (RAG) system and Model Context Protocol (MCP) server for Google Drive, with a modern Next.js frontend and a Node.js/Express backend. It enables intelligent search, retrieval, and chat over your Google Drive files, supporting Google Docs, Sheets, and more.
 
 ---
